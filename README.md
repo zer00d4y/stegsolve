@@ -13,3 +13,7 @@ If an image fails to load, for example because it is corrupt, then file analysis
 It may, however, crash out before reporting the information that you want to know. This will work though on images where the PNG has corrupted CRC values for example.
 
 *author Caesum* 
+
+For run this program:
+
+    java -jar StegSolve-1.4.jar
